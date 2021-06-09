@@ -17,7 +17,6 @@
     │        ├── hooks
     │        ├── models
     │        ├── schemas
-    │        ├── pages
     │        ├── services
     │        └── utils
     │
