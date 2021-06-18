@@ -1,0 +1,508 @@
+{
+  "data": [
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "Good design Good thinking, Good life \n\n유니하드는 각자의 개성이 뚜렷한 작가들이 모여  \n\n즐기며 작업하는 Play ground 입니다.\n\n다양한 시각과 색을 가진 디자이너들의 창작물을 \n\n회사내에서 직접 제작,유통하여\n\n소비자에게 합리적인 비용으로 큰 만족을 느끼게 할 수 있는\n\n가성비와 가심비를 추구합니다.",
+        "id": 7572,
+        "name": "유니하드"
+      },
+      "discountRate": 90,
+      "id": 763737,
+      "isDiscounted": true,
+      "likeCount": 0,
+      "name": "반도호랑이 버즈/플러스 하드케이스",
+      "picture": {
+        "__type__": "Picture",
+        "id": "21bdf1de-3fd8-4912-985b-d37abf344c3b",
+        "isDefault": false,
+        "originalHeight": 640,
+        "originalWidth": 640
+      },
+      "price": 11900,
+      "priceOriginal": 119000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "Good design Good thinking, Good life \n\n유니하드는 각자의 개성이 뚜렷한 작가들이 모여  \n\n즐기며 작업하는 Play ground 입니다.\n\n다양한 시각과 색을 가진 디자이너들의 창작물을 \n\n회사내에서 직접 제작,유통하여\n\n소비자에게 합리적인 비용으로 큰 만족을 느끼게 할 수 있는\n\n가성비와 가심비를 추구합니다.",
+        "id": 7572,
+        "name": "유니하드"
+      },
+      "discountRate": 90,
+      "id": 765681,
+      "isDiscounted": true,
+      "likeCount": 0,
+      "name": "댄싱식빵이 유니하드톡",
+      "picture": {
+        "__type__": "Picture",
+        "id": "5a17f995-904e-41fe-8fb9-1bf11f24bfb7",
+        "isDefault": false,
+        "originalHeight": 640,
+        "originalWidth": 640
+      },
+      "price": 6900,
+      "priceOriginal": 69000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "페미닌한 데일리룩, '텐퍼센트'\n매일 드레스룸의 아름다움을 더하세요!",
+        "id": 6119,
+        "name": "텐퍼센트"
+      },
+      "discountRate": 90,
+      "id": 617150,
+      "isDiscounted": true,
+      "likeCount": 15,
+      "name": "여성용 수일 레더 가죽 밍크 무스탕 자켓",
+      "picture": {
+        "__type__": "Picture",
+        "id": "6a993833-310d-4e4d-926d-f9d840597b2c",
+        "isDefault": false,
+        "originalHeight": 1000,
+        "originalWidth": 1000
+      },
+      "price": 29800,
+      "priceOriginal": 298000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "벨로티는 세계 곳곳으로 뷰티 제품울 수출해왔습니다.\n국내시장에는 2019년 8월부터 판매를 시작했습니다.\n페이셜/풋/네일 케어 툴 등이 주요 생산제품입니다.",
+        "id": 4581,
+        "name": "벨로티"
+      },
+      "discountRate": 90,
+      "id": 274753,
+      "isDiscounted": true,
+      "likeCount": 5,
+      "name": "글라스 네일파일 90mm",
+      "picture": {
+        "__type__": "Picture",
+        "id": "i5d9162a458ade",
+        "isDefault": false,
+        "originalHeight": 1000,
+        "originalWidth": 1000
+      },
+      "price": 2900,
+      "priceOriginal": 29000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 6761,
+        "name": "시크바이"
+      },
+      "discountRate": 90,
+      "id": 626225,
+      "isDiscounted": true,
+      "likeCount": 1,
+      "name": "부클 양털 맥시롱 머플러",
+      "picture": {
+        "__type__": "Picture",
+        "id": "a6f11445-c03a-4a6e-980e-f291f360ed22",
+        "isDefault": false,
+        "originalHeight": 1400,
+        "originalWidth": 1000
+      },
+      "price": 9900,
+      "priceOriginal": 99000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "",
+        "id": 2688,
+        "name": "251w"
+      },
+      "discountRate": 90,
+      "id": 175480,
+      "isDiscounted": true,
+      "likeCount": 2316,
+      "name": "[단독특가]아이폰 투명젤리케이스",
+      "picture": {
+        "__type__": "Picture",
+        "id": "i5bbee515aab13",
+        "isDefault": false,
+        "originalHeight": 600,
+        "originalWidth": 600
+      },
+      "price": 1500,
+      "priceOriginal": 14900,
+      "reviewsCount": 109,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "EMU는 1948년에 설립된 AUSTRALLA 회사로서 최초로 UGG부츠를 제작하여 공급한 회사이며\n청정환경에서 자란 메리노양의 양피를 사용하여 상품을 제작합니다.",
+        "id": 4686,
+        "name": "이뮤(EMU)"
+      },
+      "discountRate": 90,
+      "id": 284846,
+      "isDiscounted": true,
+      "likeCount": 1,
+      "name": "이뮤 스팅어 로 털부츠 어그부츠 (W10002-CHOCOLATE)",
+      "picture": {
+        "__type__": "Picture",
+        "id": "i5db2af1f7ae00",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 720
+      },
+      "price": 25400,
+      "priceOriginal": 249000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7650,
+        "name": "벨리사"
+      },
+      "discountRate": 90,
+      "id": 766219,
+      "isDiscounted": true,
+      "likeCount": 2,
+      "name": "[Belisa] 벨리사 주얼리 BLS-S7006RG 트윈 플라워  목걸이 팔찌 SET",
+      "picture": {
+        "__type__": "Picture",
+        "id": "2c3757b1-d9a6-4a3b-ae55-5db67a0dc786",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 16900,
+      "priceOriginal": 156000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7650,
+        "name": "벨리사"
+      },
+      "discountRate": 90,
+      "id": 766218,
+      "isDiscounted": true,
+      "likeCount": 49,
+      "name": "[Belisa] 벨리사 주얼리 BLS-S7005RG 알함브라 큐티  목걸이 팔찌 SET",
+      "picture": {
+        "__type__": "Picture",
+        "id": "7d7e7b61-1485-428c-962f-aa098f025c7a",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 16900,
+      "priceOriginal": 156000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7650,
+        "name": "벨리사"
+      },
+      "discountRate": 90,
+      "id": 766212,
+      "isDiscounted": true,
+      "likeCount": 10,
+      "name": "[Belisa] 벨리사 주얼리 BLS-S7002RG 투윈 더블링  목걸이 팔찌 SET",
+      "picture": {
+        "__type__": "Picture",
+        "id": "24be5545-5591-4e2e-bef9-637bb7a22844",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 16900,
+      "priceOriginal": 156000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7650,
+        "name": "벨리사"
+      },
+      "discountRate": 90,
+      "id": 766210,
+      "isDiscounted": true,
+      "likeCount": 5,
+      "name": "[Belisa] 벨리사 주얼리 BLS-S7001RG 투웨이 하트 목걸이 팔찌 SET",
+      "picture": {
+        "__type__": "Picture",
+        "id": "53ef90b7-2ae5-4969-8d3b-bc281c4c4807",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 16900,
+      "priceOriginal": 156000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7650,
+        "name": "벨리사"
+      },
+      "discountRate": 90,
+      "id": 766216,
+      "isDiscounted": true,
+      "likeCount": 7,
+      "name": "[Belisa] 벨리사 주얼리 BLS-S7003RG 트윙클 워터  목걸이 팔찌 SET",
+      "picture": {
+        "__type__": "Picture",
+        "id": "fe50a169-e5bc-481f-94d7-38c9fca975ca",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 16900,
+      "priceOriginal": 156000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7650,
+        "name": "벨리사"
+      },
+      "discountRate": 90,
+      "id": 766217,
+      "isDiscounted": true,
+      "likeCount": 12,
+      "name": "[Belisa] 벨리사 주얼리 BLS-S7004RG 빅토리 V라인  목걸이 팔찌 SET",
+      "picture": {
+        "__type__": "Picture",
+        "id": "1c8d0b5d-0d2c-4d61-9ac7-5162f6f41f1c",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 16900,
+      "priceOriginal": 156000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "정상 ZENITH + 불꽃 SPARKLE\n(주) 제스파는 정상의 불꽃이라는 의미를 지닌\n건강/미용/생활기기 및 반려용품 전문 판매 기업입니다.\n전문 분야에서 최선을 다한다는 제스파의 신념을 나타내고 있습니다.\n고객 여러분들의 “아름다운 건강, 건강한 아름다움”을\n위해 최선을 다하는 기업이 되겠습니다.",
+        "id": 6237,
+        "name": "제스파"
+      },
+      "discountRate": 90,
+      "id": 591012,
+      "isDiscounted": true,
+      "likeCount": 4,
+      "name": "제스파 저소음 초음파 미니 가습기 인테리어 무드등 수면등 택1",
+      "picture": {
+        "__type__": "Picture",
+        "id": "27b59f18-57be-4d3d-a8e1-4b67541e5008",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 720
+      },
+      "price": 13900,
+      "priceOriginal": 128000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": "NEW BALANCE(뉴발란스)는 1906년 미국 매사추세츠 주 보스턴에서 발에 장애가 있거나 경찰 소방관 우체부 등 하루 종일 서서 일하는 발에 무리가 가는 사람들을 위해 아치 서포트(Arch Support : 지지대가 있는 신발 깔창) 만드는데서부터 시작되었습니다. 닭의 세 개의 발톱이 만드는 균형 (Balance)에서 영감을 얻어 아치 서포트와 신발을 개발하였습니다.",
+        "id": 160,
+        "name": "뉴발란스"
+      },
+      "discountRate": 90,
+      "id": 722505,
+      "isDiscounted": true,
+      "likeCount": 1475,
+      "name": "뉴발란스 에센셜 스텍드 로고 반팔티 블랙 AWT91546-BK",
+      "picture": {
+        "__type__": "Picture",
+        "id": "57ed4de1-354a-4092-b073-9755b3ffa17c",
+        "isDefault": false,
+        "originalHeight": 1000,
+        "originalWidth": 1000
+      },
+      "price": 38800,
+      "priceOriginal": 356900,
+      "reviewsCount": 13,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7599,
+        "name": "스톤제라"
+      },
+      "discountRate": 89,
+      "id": 761427,
+      "isDiscounted": true,
+      "likeCount": 9,
+      "name": "[STONE ZERA] 스톤 제라 주얼리 SZ9030-WT  엘리자베스 써지컬 스틸 실버  목걸이",
+      "picture": {
+        "__type__": "Picture",
+        "id": "a11e57fd-0ddb-4dd6-9164-bcb60a20f62c",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 9800,
+      "priceOriginal": 89000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7599,
+        "name": "스톤제라"
+      },
+      "discountRate": 89,
+      "id": 761414,
+      "isDiscounted": true,
+      "likeCount": 4,
+      "name": "[STONE ZERA] 스톤 제라 주얼리 SZ9026-WT  바이올렛 써지컬 스틸 실버목걸이",
+      "picture": {
+        "__type__": "Picture",
+        "id": "28c00f28-d0b4-436e-9387-2d942c9e0562",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 9800,
+      "priceOriginal": 89000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7599,
+        "name": "스톤제라"
+      },
+      "discountRate": 89,
+      "id": 761309,
+      "isDiscounted": true,
+      "likeCount": 3,
+      "name": "[STONE ZERA] 스톤 제라 주얼리 SZ3009B-RG  십자가 크로스 스톤 팔찌",
+      "picture": {
+        "__type__": "Picture",
+        "id": "3d81c5c5-d8a8-42bb-9106-c2d73a345fde",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 9800,
+      "priceOriginal": 89000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7599,
+        "name": "스톤제라"
+      },
+      "discountRate": 89,
+      "id": 761420,
+      "isDiscounted": true,
+      "likeCount": 0,
+      "name": "[STONE ZERA] 스톤 제라 주얼리 SZ9028-WT  하트 크리스탈 써지컬 스틸 실버  목걸이",
+      "picture": {
+        "__type__": "Picture",
+        "id": "863bafa0-079d-4461-b018-a87a646f19a1",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 9800,
+      "priceOriginal": 89000,
+      "reviewsCount": 0,
+      "status": "normal"
+    },
+    {
+      "__type__": "GoodsOverview",
+      "brand": {
+        "__type__": "BrandOverview",
+        "description": null,
+        "id": 7599,
+        "name": "스톤제라"
+      },
+      "discountRate": 89,
+      "id": 761214,
+      "isDiscounted": true,
+      "likeCount": 1,
+      "name": "[STONE ZERA] 스톤 제라 주얼리 SZ3008B-RG  뫼비우스 띠 팔찌",
+      "picture": {
+        "__type__": "Picture",
+        "id": "96d4acb8-6786-4027-b923-a31ced56e94c",
+        "isDefault": false,
+        "originalHeight": 720,
+        "originalWidth": 640
+      },
+      "price": 9800,
+      "priceOriginal": 89000,
+      "reviewsCount": 0,
+      "status": "normal"
+    }
+  ],
+  "paging": {
+    "next": "/categories/best/goods?sort=rate-desc&offset=40&limit=20&score_type=a"
+  },
+  "total": 405576
+}

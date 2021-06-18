@@ -1,0 +1,161 @@
+{
+  "data": [
+    {
+      "id": 781352,
+      "name": "[럭키박스][100개한정]지프X스쉐 블랙에디션 6종 패키지",
+      "isDiscounted": true,
+      "discountRate": 76,
+      "price": 48000,
+      "priceOriginal": 206000,
+      "status": "normal",
+      "picture": {
+        "id": "b6e1157d-deea-416d-929c-d12f67cd75ee",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "지프",
+        "id": 4442
+      },
+      "approved": true
+    },
+    {
+      "id": 766798,
+      "name": "[오직스쉐] 데일리웨어의 정석! 하트코어 인기 반팔&팬츠  최대 82%할인!",
+      "isDiscounted": true,
+      "discountRate": 81,
+      "price": 24000,
+      "priceOriginal": 128000,
+      "status": "normal",
+      "picture": {
+        "id": "512f5951-7966-49e6-8921-9fc0686c58f0",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "하트코어",
+        "id": 3670
+      },
+      "approved": true
+    },
+    {
+      "id": 758212,
+      "name": "[주말특가][위클리특가][단독구성][1+1] 오리진 빅로고+스몰로고 반팔티셔츠(~5/25)",
+      "isDiscounted": true,
+      "discountRate": 44,
+      "price": 33000,
+      "priceOriginal": 59600,
+      "status": "normal",
+      "picture": {
+        "id": "b210040b-bfeb-4aa7-9ae3-2b5cfad8dba5",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "ellesse",
+        "id": 3907
+      },
+      "approved": true
+    },
+    {
+      "id": 722844,
+      "name": "[위클리특가]21 BUTTERFLY T-shrits [5Color](~5/25)",
+      "isDiscounted": true,
+      "discountRate": 27,
+      "price": 27500,
+      "priceOriginal": 38000,
+      "status": "normal",
+      "picture": {
+        "id": "d18144a1-dea5-4c1f-a5b9-88af97bb7b21",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "러디칙스",
+        "id": 6387
+      },
+      "approved": true
+    },
+    {
+      "id": 745707,
+      "name": "[주말특가][단독특가][단독상품]816 바시티 칼리지 그래픽 반팔티 DIS2UTST816",
+      "isDiscounted": true,
+      "discountRate": 59,
+      "price": 15900,
+      "priceOriginal": 39000,
+      "status": "normal",
+      "picture": {
+        "id": "b546c9f0-0d05-48e2-91e6-8ad5319a669e",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "디키즈",
+        "id": 3626
+      },
+      "approved": true
+    },
+    {
+      "id": 529211,
+      "name": "[오직스쉐] 트레져 인기 반팔&반바지 최대 ~58% 할인/사은품 증정 이벤트까지",
+      "isDiscounted": true,
+      "discountRate": 57,
+      "price": 16900,
+      "priceOriginal": 39900,
+      "status": "normal",
+      "picture": {
+        "id": "42bd5564-bb70-428e-a4e7-8707376af530",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "트레져",
+        "id": 6202
+      },
+      "approved": true
+    },
+    {
+      "id": 767028,
+      "name": "[주말특가][단독상품][1+1] 뉴해빗 스타일쉐어 단독 디자인 반팔 4종",
+      "isDiscounted": true,
+      "discountRate": 78,
+      "price": 26900,
+      "priceOriginal": 128000,
+      "status": "normal",
+      "picture": {
+        "id": "1dd11a42-67b9-4f44-b47b-2e868967b336",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "뉴해빗",
+        "id": 166
+      },
+      "approved": true
+    },
+    {
+      "id": 682379,
+      "name": "[르꼬끄] PLAY YOUR ACE 베이직 빅로고 반팔티 (QM123ARS12)",
+      "isDiscounted": false,
+      "discountRate": 0,
+      "price": 39000,
+      "priceOriginal": 39000,
+      "status": "normal",
+      "picture": {
+        "id": "06ac00a0-6237-44de-9754-8a0e84e18d1b",
+        "originalHeight": 700,
+        "originalWidth": 700
+      },
+      "brand": {
+        "name": "르꼬끄 스포르티브",
+        "id": 3072
+      },
+      "approved": true
+    }
+  ],
+  "paging": {
+    "prev": null,
+    "next": "/display/api/v1/categories/350/featured-goods?size=8&page=1"
+  },
+  "title": "추천 상품"
+}
