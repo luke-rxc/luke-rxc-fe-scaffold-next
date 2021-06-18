@@ -1,0 +1,10 @@
+rxcAppNext:
+  component: '@sls-next/serverless-component@1.18.0'
+  inputs:
+    bucketName: 'rxc-front-next-severless-s3'
+    bucketRegion: 'ap-northeast-2'
+    cloudfront:
+      distributionId: 'E32285V9GMN1ZY'
+    name:
+      defaultLambda: 'rxc-front-next-severless-default-lambda'
+      apiLambda: 'rxc-front-next-severless-api-lambda'
